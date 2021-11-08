@@ -20,7 +20,7 @@
 ## Results
 
 <!--What are two conclusions you can draw about the Outcomes based on Launch Date? -->
-- The conclusions are
+- The best time to launch a theater campaign appears to be May, while June and July may also be good options. December has a similar number of successful and failed campaigns so we can conclude that December would not be a good month to launch. 
 
 <!--What can you conclude about the Outcomes based on Goals? -->
 - The outcomes
