@@ -12,12 +12,12 @@
 ### I created a pivot table filtered by "Parent Category" and "years". I then filtered the parent category so that only "Theater" Kickstarters would be shown. The filtered pivot table can be seen below: 
 <!-- Enter Pivot Table here -->
 
-[Launch_Date_Pivot](https://user-images.githubusercontent.com/92553327/141666210-3c79dff5-05ad-4e10-a8f1-683091ffd760.png)
+![Launch_Date_Pivot](https://user-images.githubusercontent.com/92553327/141666210-3c79dff5-05ad-4e10-a8f1-683091ffd760.png)
 
 This pivot table shows the number of failed, successful, canceled, and live theater Kickstarter campaigns. Here is a visualization of the pivot table broken down into months: 
 <!-- Enter Graph here -->
 
-[Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/92553327/141666229-248ec68b-de1e-4553-bbbd-172d929ef274.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/92553327/141666229-248ec68b-de1e-4553-bbbd-172d929ef274.png)
 
 
 <!--Analysis of Outcomes Based on Goals -->
@@ -26,9 +26,9 @@ This pivot table shows the number of failed, successful, canceled, and live thea
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/92553327/141666237-c0f03b95-f885-4e2d-a6f7-81745ec34938.png)
 
-<!--Challenges and Difficulties Encountered -->!
+<!--Challenges and Difficulties Encountered -->
 
-### 
+### A challenge one might encounter with dataset is that there are multiple currencies shown. In this project, we only looked at campaigns that used the Great Britain Pound. However, if we need to utilize this data to look at multiple countries in the future, an added column would be required to account for exchange rates between currencies. 
 
 ## Results
 
